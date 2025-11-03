@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/virtualtable/SSS22200DXLKdjaksfvdhgjs29dcAK/refs/heads/main/AK2ksSKSKSSSKSKSKxK222SKsKDJHSDJHSDFSDAJKGFHJASDF.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/funnicat0/fhdgdjHGHJEGEHJ37HDSH/refs/heads/main/wqiuiuiuiuiu.lua"))()
 
 local LocalPlayer = game:GetService("Players").LocalPlayer
 local Character = LocalPlayer.Character or (LocalPlayer.CharacterAdded:wait() and LocalPlayer.Character)
@@ -552,4 +552,5 @@ DefensePanel:CreateSection("Defensive Systems")
 DefensePanel:CreateToggle({ Name = "Anti-Cuff", CurrentValue = config.antiCuff, Callback = function(v) config.antiCuff = v end })
 DefensePanel:CreateToggle({ Name = "Anti-Stun", CurrentValue = config.antiStun, Callback = function(v) config.antiStun = v end })
 DefensePanel:CreateToggle({ Name = "Death Tracker", CurrentValue = config.deathTracker, Callback = function(v) config.deathTracker = v end })
+
 Sirius:LoadConfiguration()
